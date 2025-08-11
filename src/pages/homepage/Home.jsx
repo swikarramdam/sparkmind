@@ -16,7 +16,7 @@ const Home = () => {
         {/* <h1 className="logo">Spark Mind</h1> */}
         <div className="logo">
           <img
-            src="/public/SparkMind_UI/logo.png"
+            src="/SparkMind_UI/logo.png"
             alt=""
             height="200px"
             width="200px"
